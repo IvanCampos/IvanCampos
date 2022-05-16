@@ -1,9 +1,5 @@
 IvanCampos
 ==========
-
-Demo: http://www.ivancampos.com
--------------------------
-
 METEOR@1.2.1
 ----------
 ### meteor list ###
