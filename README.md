@@ -1,6 +1,8 @@
-## Hi there 👋
+![header](https://github.com/user-attachments/assets/0c9ddd42-6e4a-4585-8d5b-60653daac8b8)
 
 <!--
+## Hi there 👋
+
 **IvanCampos/IvanCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
