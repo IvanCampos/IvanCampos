@@ -1,4 +1,6 @@
 ![header](https://github.com/user-attachments/assets/0c9ddd42-6e4a-4585-8d5b-60653daac8b8)
+XR Device: ** Vision Pro**  
+AI Agent: **Codex**  
 
 <!--
 ## Hi there 👋
